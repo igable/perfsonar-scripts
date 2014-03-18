@@ -1,7 +1,7 @@
 perfsonar-scripts
 =================
 
-A collection of little scripts to fr perfSonar.
+A collection of little scripts useful for perfSonar.
 
 mirror-perfsonar-configs.sh
 --------------------------
